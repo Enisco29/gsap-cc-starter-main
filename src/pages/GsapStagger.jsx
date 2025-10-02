@@ -11,7 +11,6 @@ const GsapStagger = () => {
       rotation: 360,
       yoyo: true,
       repeat: -1,
-      // stagger: 0.5,
       stagger: {
         amount: 1.5,
         grid: [2, 1],
